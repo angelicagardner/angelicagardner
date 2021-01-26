@@ -5,6 +5,8 @@
 
 [![dev.to badge](https://img.shields.io/badge/LinkedIn-angelicagardner-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelica-gardner/) ![dev.to badge](https://img.shields.io/badge/-macOS-black?style=flat&logo=apple) ![dev.to badge](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
