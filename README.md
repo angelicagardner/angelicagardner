@@ -3,7 +3,7 @@
 <!--
 **angelicagardner/angelicagardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![dev.to badge](https://img.shields.io/badge/LinkedIn-angelica-gardner-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelica-gardner/)
+[![dev.to badge](https://img.shields.io/badge/LinkedIn-angelicagardner-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelica-gardner/) ![dev.to badge](https://img.shields.io/badge/-macOS-black?style=flat&logo=apple) ![dev.to badge](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
 
 Here are some ideas to get you started:
 
