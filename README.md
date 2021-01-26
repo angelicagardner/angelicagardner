@@ -3,6 +3,8 @@
 <!--
 **angelicagardner/angelicagardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![dev.to badge](https://img.shields.io/badge/LinkedIn-Angelica Gardner-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angelica-gardner/)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
