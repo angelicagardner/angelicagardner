@@ -1,4 +1,17 @@
-## Hi humans! 👋
+# Hello, world! 👋
+
+I'm Angelica from Stockholm, Sweden.
+
+## Skills
+* 💻 HTML, CSS, JS
+* ⚛ React
+* 📱 React Native
+
+## Examples of Work
+
+```
+coming soon...
+```
 
 <!--
 **angelicagardner/angelicagardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +32,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicagardner&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff">
