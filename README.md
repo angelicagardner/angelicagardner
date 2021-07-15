@@ -2,6 +2,9 @@
 
 I'm Angelica from Stockholm, Sweden.
 
+LinkedIn: <a href="https://www.linkedin.com/in/angelica-gardner/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="75"/></a><br />
+Kaggle: <a href="https://www.kaggle.com/angelicahjelmgardner"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/></a>
+
 ## Skills
 * 💻 HTML, CSS, JS
 * ⚛ React
