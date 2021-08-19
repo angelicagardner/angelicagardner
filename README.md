@@ -26,6 +26,10 @@ My name is Angelica and I'm 31 years old (if it's still 2021) Software Engineer 
 
 ## Breaking News 😉
 
+> 
+> ... this section is a work in progress ...
+> 
+
 <table><tr>
   
   <td valign="top" width="33%">
