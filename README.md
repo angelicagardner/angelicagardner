@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/angelica-gardner/)
 - I have [Twitter](https://twitter.com/ahjelmgardner), but use it mostly as an observer
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
