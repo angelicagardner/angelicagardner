@@ -1,7 +1,7 @@
 # Hello, world! 👋
 
-- 🔭 I’m currently working on an [online resume](https://github.com/angelicagardner/resume), a [academic website](https://angelicagardner.github.io/), and my [homepage](https://www.angelicagardner.com/).
-- 🌱 I’m currently learning everything related to my [masters degree studies](https://lnu.se/en/programme/software-technology-master-programme-nada2/).
+- 🔭 I’m currently working on: an [online resume](https://github.com/angelicagardner/resume), a [academic website](https://angelicagardner.github.io/), and my [homepage](https://www.angelicagardner.com/).
+- 🌱 I’m currently learning: everything related to my [masters degree studies](https://lnu.se/en/programme/software-technology-master-programme-nada2/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 5 kids. It's a struggle, never a dull moment, and so much love. 
 
