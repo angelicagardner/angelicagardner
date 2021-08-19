@@ -1,17 +1,20 @@
 # Hello, world! 👋
 
-My name is Angelica, I'm a Software Engineer from Stockholm, 🇸🇪.
+My name is Angelica. I'm a 31 years old (if it's still 2021) Software Engineer from Stockholm, 🇸🇪.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have 5 kids. It's a struggle, never a dull moment, and so much love. 
 
 ## Languages & Tools
 
-* 💻 HTML, CSS, JS
-* ⚛ React
-* 📱 React Native
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>   
+
+// TODO: Add icons for Python (Django?), PHP (Laravel?) 👼🏻
 
 ## GitHub Stats
 
