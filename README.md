@@ -13,12 +13,6 @@ My name is Angelica, I'm a Software Engineer from Stockholm, 🇸🇪.
 * ⚛ React
 * 📱 React Native
 
-## Examples of Work
-
-```
-coming soon...
-```
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=tokyonight" />
