@@ -1,9 +1,9 @@
 # Hello, world! 👋
 
-My name is Angelica. I'm a 31 years old (if it's still 2021) Software Engineer from Stockholm, 🇸🇪.
+My name is Angelica and I'm 31 years old (if it's still 2021) Software Engineer from Stockholm, 🇸🇪. My main work experiences are focused on web development and full stack development. My academic interests is mainly focused around AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on an [online resume](https://github.com/angelicagardner/resume), a [academic website](https://angelicagardner.github.io/), and my [homepage](https://www.angelicagardner.com/).
+- 🌱 I’m currently learning everything related to my [masters degree studies](https://lnu.se/en/programme/software-technology-master-programme-nada2/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 5 kids. It's a struggle, never a dull moment, and so much love. 
 
@@ -23,3 +23,23 @@ My name is Angelica. I'm a 31 years old (if it's still 2021) Software Engineer f
 - All professional links can be found on my [Linktree](https://linktr.ee/angelicagardner)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/angelica-gardner/)
 - I have [Twitter](https://twitter.com/ahjelmgardner), but use it mostly as an observer
+
+## Breaking News 😉
+
+<table><tr>
+  
+  <td valign="top" width="33%">
+    ### Recent
+  </td>
+  
+  <td valign="top" width="34%"> 
+    ### Posts
+  </td>
+  
+  <td valign="top" width="33%">
+    ### Other
+  </td>
+  
+</tr></table>
+
+*Giving CREDIT where it's due: The setup above was completely inspired by [this great blogpost](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
