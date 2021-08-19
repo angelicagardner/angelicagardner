@@ -25,11 +25,11 @@ coming soon...
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicagardner&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff">
 
-*NOTE: "Top languages" does not indicate my skill level, it's a metric of which languages I have use the most on GitHub projects.*
+*NOTE: "Most Used Languages" does not indicate my skill level, it's a metric of which languages I have use the most on GitHub projects.*
 
 ## Find me around the web 🌍
 - All professional links can be found on my [Linktree](https://linktr.ee/angelicagardner)
