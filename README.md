@@ -1,7 +1,5 @@
 # Hello, world! 👋
 
-My name is Angelica and I'm 31 years old (if it's still 2021) Software Engineer from Stockholm, 🇸🇪. My main work experiences are focused on web development and full stack development. My academic interests is mainly focused around AI/ML.
-
 - 🔭 I’m currently working on an [online resume](https://github.com/angelicagardner/resume), a [academic website](https://angelicagardner.github.io/), and my [homepage](https://www.angelicagardner.com/).
 - 🌱 I’m currently learning everything related to my [masters degree studies](https://lnu.se/en/programme/software-technology-master-programme-nada2/).
 - 😄 Pronouns: She/Her
