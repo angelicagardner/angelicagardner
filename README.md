@@ -4,15 +4,6 @@
 
 # Hello, world! 👋
 
-(She/Her)
-
-## Find me around the web 🌍
-- All professional links can be found on my [Linktree](https://linktr.ee/angelicagardner)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/angelica-gardner/)
-- I have [Twitter](https://twitter.com/ahjelmgardner), but use it mostly as an observer
-
-## Recent Updates
-
 > 
 > ... this section is a work in progress ...
 > 
