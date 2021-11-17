@@ -5,23 +5,5 @@
 # Hello, world! 👋
 
 > 
-> ... this section is a work in progress ...
+> ... work in progress ...
 > 
-
-<table><tr>
-  
-  <td valign="top" width="33%">
-    ### Recent
-  </td>
-  
-  <td valign="top" width="34%"> 
-    ### Posts
-  </td>
-  
-  <td valign="top" width="33%">
-    ### Other
-  </td>
-  
-</tr></table>
-
-*Giving CREDIT where it's due: The setup above was completely inspired by [this great blogpost](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
