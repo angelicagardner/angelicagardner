@@ -19,7 +19,7 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 ## 📊 Some Profile Stats
 
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-bottom: 15px;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&theme=dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=angelicagardner&layout=compact&theme=dark" />
