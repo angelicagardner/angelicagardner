@@ -19,12 +19,10 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 ## 📊 Some Profile Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&theme=dark&show_icons=true&count_private=true" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=angelicagardner&layout=compact&theme=dark" style="display: inline-block; vertical-align: top;" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=angelicagardner&theme=dark&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=angelicagardner&layout=compact&theme=dark" />
-
-</div>
-
-</br></br>
+<br/><br/>
 *Note: This README is generated using GitHub Actions, automatically updated once a day*
