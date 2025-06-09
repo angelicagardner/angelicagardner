@@ -1,4 +1,4 @@
-name: Get latest book list from Goodreads
+name: Get latest updates for README
 on:
   schedule:
     # Run once a week on Thursdays
