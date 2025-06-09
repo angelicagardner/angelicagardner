@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme-with-goodreads-books:
-    name: Update currently reading list
+    name: Get updates
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
