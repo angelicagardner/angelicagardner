@@ -5,8 +5,8 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 ## 🛠️ Ideas I'm Working On
 
 <p align=left>
-    <a href="https://github.com/angelicagardner/angelicagardner">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagardner&repo=kids-code-curriculum&theme=neon" />
+    <a href="https://github.com/angelicagardner/kids-coding-curriculum">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagardner&repo=kids-coding-curriculum&theme=neon" />
     </a>
 </p>
 
