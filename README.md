@@ -2,7 +2,7 @@
 
 This repo is part lab notebook, part playground - it's my digital workbench to track and share my work, exploration, and learning. From research notes to thesis work, coding challenges to kids’ projects... with some open source participation too. Welcome to get in touch!
 
-## 🛠️ Ideas I'm Currently Working On
+## 🛠️ Ideas I'm Working On
 
 <p align=left>
     <a href="https://github.com/angelicagardner/angelicagardner">
@@ -10,7 +10,7 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
     </a>
 </p>
 
-## 📚 What I'm Currently Reading (from Goodreads)
+## 📚 What I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
 - [The Great Dune Trilogy](https://www.goodreads.com/review/show/7479855516?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.36)
