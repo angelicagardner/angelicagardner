@@ -28,4 +28,4 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 <br/>
 
-*Note: This README is generated using GitHub Actions, automatically updated once a day*
+*Note: This README is updated using GitHub Actions once a week on Thursdays*
