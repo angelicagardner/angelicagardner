@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * 4"
   workflow_dispatch:
 jobs:
-  update-readme-with-goodreads-books:
+  update-readme:
     name: Get updates
     runs-on: ubuntu-latest
     steps:
