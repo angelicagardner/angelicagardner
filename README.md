@@ -6,7 +6,7 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 <p align=left>
     <a href="https://github.com/angelicagardner/angelicagardner">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagardner&repo=kids-code-curriculum&theme=github_dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagardner&repo=kids-code-curriculum&theme=neon" />
     </a>
 </p>
 
