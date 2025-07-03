@@ -13,8 +13,10 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 ## 📚 What I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.goodreads.com/review/show/6471989651?utm_medium=api&utm_source=rss) by Adele Faber (⭐️4.26)
+- [On the Shortness of Life: Life Is Long if You Know How to Use It (Penguin Great Ideas)](https://www.goodreads.com/review/show/7536974393?utm_medium=api&utm_source=rss) by Seneca (⭐️4.19)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4791140064?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.36)
 - [The Great Dune Trilogy](https://www.goodreads.com/review/show/7479855516?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.36)
-- [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/review/show/7314141797?utm_medium=api&utm_source=rss) by Richard H. Thaler (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ## 🕒 Recent Activity
