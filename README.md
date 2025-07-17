@@ -13,8 +13,8 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 ## 📚 What I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Maniac](https://www.goodreads.com/review/show/7725944911?utm_medium=api&utm_source=rss) by Benjamín Labatut (⭐️4.33)
 - [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.goodreads.com/review/show/7720018326?utm_medium=api&utm_source=rss) by Project Management Institute (⭐️3.69)
-- [Natt till den fjärde november](https://www.goodreads.com/review/show/6991134601?utm_medium=api&utm_source=rss) by Karin Fossum (⭐️2.93)
 - [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.goodreads.com/review/show/6471989651?utm_medium=api&utm_source=rss) by Adele Faber (⭐️4.26)
 - [On the Shortness of Life: Life Is Long if You Know How to Use It (Penguin Great Ideas)](https://www.goodreads.com/review/show/7536974393?utm_medium=api&utm_source=rss) by Seneca (⭐️4.19)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4791140064?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.36)
