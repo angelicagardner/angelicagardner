@@ -24,11 +24,11 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/angelicagardner/tech-talks-digest/pull/54) in [angelicagardner/tech-talks-digest](https://github.com/angelicagardner/tech-talks-digest)
-2. ❗ Opened issue [#37](https://github.com/angelicagardner/coding-challenges/issues/37) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
-3. ❗ Opened issue [#36](https://github.com/angelicagardner/coding-challenges/issues/36) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
-4. ❗ Opened issue [#35](https://github.com/angelicagardner/coding-challenges/issues/35) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
-5. ❗ Opened issue [#34](https://github.com/angelicagardner/coding-challenges/issues/34) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
+1. 🔒 Closed issue [#22](https://github.com/angelicagardner/coding-challenges/issues/22) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
+2. 🎉 Merged PR [#38](https://github.com/angelicagardner/coding-challenges/pull/38) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
+3. ❌ Reopened PR [#38](https://github.com/angelicagardner/coding-challenges/pull/38) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
+4. ❌ Closed PR [#38](https://github.com/angelicagardner/coding-challenges/pull/38) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
+5. 💪 Opened PR [#38](https://github.com/angelicagardner/coding-challenges/pull/38) in [angelicagardner/coding-challenges](https://github.com/angelicagardner/coding-challenges)
 <!--END_SECTION:activity-->
 
 ## 📊 Some Profile Stats
