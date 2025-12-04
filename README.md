@@ -13,7 +13,6 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 ## 📚 What I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Life of Chuck](https://www.goodreads.com/review/show/8052273214?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.95)
 - [Politics](https://www.goodreads.com/review/show/7958503441?utm_medium=api&utm_source=rss) by Aristotle (⭐️4)
 - [Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective](https://www.goodreads.com/review/show/5037786836?utm_medium=api&utm_source=rss) by Amina Wadud (⭐️4.24)
 - [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.goodreads.com/review/show/6471989651?utm_medium=api&utm_source=rss) by Adele Faber (⭐️4.26)
