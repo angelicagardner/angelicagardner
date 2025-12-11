@@ -15,8 +15,7 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 <!-- GOODREADS-LIST:START -->
 - [Politics](https://www.goodreads.com/review/show/7958503441?utm_medium=api&utm_source=rss) by Aristotle (⭐️4)
 - [Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective](https://www.goodreads.com/review/show/5037786836?utm_medium=api&utm_source=rss) by Amina Wadud (⭐️4.24)
-- [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.goodreads.com/review/show/6471989651?utm_medium=api&utm_source=rss) by Adele Faber (⭐️4.26)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4791140064?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.36)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4791140064?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.35)
 - [The Great Dune Trilogy](https://www.goodreads.com/review/show/7479855516?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
