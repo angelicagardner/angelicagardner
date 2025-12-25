@@ -16,7 +16,6 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 - [Politics](https://www.goodreads.com/review/show/7958503441?utm_medium=api&utm_source=rss) by Aristotle (⭐️4)
 - [Qur'an and Woman: Rereading the Sacred Text from a Woman's Perspective](https://www.goodreads.com/review/show/5037786836?utm_medium=api&utm_source=rss) by Amina Wadud (⭐️4.24)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4791140064?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.35)
-- [The Great Dune Trilogy](https://www.goodreads.com/review/show/7479855516?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
 ## 🕒 Recent Activity
