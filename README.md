@@ -2,14 +2,6 @@
 
 This repo is part lab notebook, part playground - it's my digital workbench to track and share my work, exploration, and learning. From research notes to thesis work, coding challenges to kids’ projects... with some open source participation too. Welcome to get in touch!
 
-## 🛠️ Ideas I'm Working On
-
-<p align=left>
-    <a href="https://github.com/angelicagardner/kids-coding-curriculum">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelicagardner&repo=kids-coding-curriculum&theme=neon" />
-    </a>
-</p>
-
 ## 📚 What I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
