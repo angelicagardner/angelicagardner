@@ -11,9 +11,10 @@ jobs:
         with:
           filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_debug: yes
           base: ""
+          plugins_errors_fatal: yes
           plugin_languages: yes
+          plugin_languages_ignored: jupyter notebook
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
@@ -23,8 +24,8 @@ jobs:
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_debug: yes
           base: ""
+          plugins_errors_fatal: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_leetcode: yes
