@@ -2,7 +2,7 @@
 
 This repo is part lab notebook, part playground - it's my digital workbench to track and share my work, exploration, and learning. From research notes to thesis work, coding challenges to kids’ projects... with some open source participation too. Welcome to get in touch!
 
-<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-introduction.svg" width="450" style="max-width: 100%;" alt="Introduction" />
+<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-introduction.svg" width="500" style="max-width: 100%;" alt="Introduction" />
 
 ## 📚 What I'm Currently Reading
 
@@ -13,17 +13,17 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 ## 📊 Metrics
 
-### Isocalendar
+### 3D Visualization of Contribution Graph
 
-<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-isocalendar.svg" width="450" style="max-width: 100%;" alt="Programming languages" />
+<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-isocalendar.svg" width="500" style="max-width: 100%;" alt="Programming languages" />
 
-### Languages activity
+### Languages Activity
 
-<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-languages.svg" width="450" style="max-width: 100%;" alt="Programming languages" />
+<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-languages.svg" width="500" style="max-width: 100%;" alt="Programming languages" />
 
 ### LeetCode
 
-<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-leetcode.svg" width="450" style="max-width: 100%;" alt="LeetCode" />
+<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-leetcode.svg" width="500" style="max-width: 100%;" alt="LeetCode" />
 
 <br/>
 
