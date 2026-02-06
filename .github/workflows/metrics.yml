@@ -7,7 +7,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -16,20 +16,23 @@ jobs:
           plugin_languages_ignored: jupyter notebook
           
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_habits_from: 100 
+          plugin_habits_days: 7
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          
           config_timezone: Europe/Stockholm
+          plugins_errors_fatal: yes
           
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugins_errors_fatal: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          
           plugin_leetcode: yes
           plugin_leetcode_user: angelicahjelmgardner
           plugin_leetcode_sections: solved, skills
