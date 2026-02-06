@@ -1,0 +1,42 @@
+name: Update GitHub Profile
+on:
+  schedule:
+    - cron: "0 0 * * 4"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  goodreads:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "152411532"
+          shelf: "currently-reading"
+
+  metrics-languages:
+    needs: goodreads
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: jupyter notebook
+
+  metrics-leetcode:
+    needs: goodreads
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          filename: metrics-leetcode.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: angelicahjelmgardner
+          plugin_leetcode_sections: solved, skills
