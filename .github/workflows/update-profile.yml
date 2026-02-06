@@ -16,6 +16,29 @@ jobs:
           goodreads_user_id: "152411532"
           shelf: "currently-reading"
 
+  metrics-introduction:
+    needs: goodreads
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: angelicagardner
+          base: header
+          plugin_introduction: yes
+
+  metrics-isocalendar:
+    needs: goodreads
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: metrics-isocalendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
+  
   metrics-languages:
     needs: goodreads
     runs-on: ubuntu-latest
