@@ -8,17 +8,7 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 - [Things We Do Not Tell The People We Love](https://www.goodreads.com/review/show/7589775604?utm_medium=api&utm_source=rss) by Huma Qureshi (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
 
-## 🕒 Recent Activity
-
-<!--START_SECTION:activity-->
-1.  Labeled issue [#18](https://github.com/angelicagardner/paper-collection/issues/18) in [angelicagardner/paper-collection](https://github.com/angelicagardner/paper-collection)
-2.  Labeled issue [#18](https://github.com/angelicagardner/paper-collection/issues/18) in [angelicagardner/paper-collection](https://github.com/angelicagardner/paper-collection)
-3.  Labeled issue [#18](https://github.com/angelicagardner/paper-collection/issues/18) in [angelicagardner/paper-collection](https://github.com/angelicagardner/paper-collection)
-4.  Labeled issue [#18](https://github.com/angelicagardner/paper-collection/issues/18) in [angelicagardner/paper-collection](https://github.com/angelicagardner/paper-collection)
-5.  Labeled issue [#18](https://github.com/angelicagardner/paper-collection/issues/18) in [angelicagardner/paper-collection](https://github.com/angelicagardner/paper-collection)
-<!--END_SECTION:activity-->
-
-## 📊 Some Profile Stats
+## 📊 Metrics
 
 <p align="left">
   <img src="https://github.com/angelicagardner/angelicagardner/blob/main/github-metrics.svg" />
