@@ -11,6 +11,7 @@ jobs:
         with:
           filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          config_debug: yes
           base: ""
           plugin_languages: yes
           plugin_habits: yes
@@ -22,6 +23,7 @@ jobs:
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          config_debug: yes
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
