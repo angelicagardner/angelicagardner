@@ -10,9 +10,9 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 ## 📊 Metrics
 
-<p align="left">
-  <img src="https://github.com/angelicagardner/angelicagardner/blob/main/github-metrics.svg" />
-</p>
+| Tech & Habits | Achievements & Algorithms |
+| :--- | :--- |
+| <img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-left.svg" width="100%" /> | <img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-right.svg" width="100%" /> |
 
 <br/>
 
