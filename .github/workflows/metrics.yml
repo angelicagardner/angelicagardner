@@ -9,21 +9,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: angelicagardner
-          template: classic
-          base: hea
-          config_timezone: Europe/Stockholm
-          
+          base: ""
           plugin_languages: yes
-          plugin_languages_details: percentage
-          
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          
+          config_timezone: Europe/Stockholm
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-right.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_achievements: yes
-          
+          plugin_achievements_display: compact
           plugin_leetcode: yes
           plugin_leetcode_user: angelicahjelmgardner
           plugin_leetcode_sections: solved, skills
