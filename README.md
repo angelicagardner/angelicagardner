@@ -13,12 +13,12 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 
 ### Languages activity
 
-<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-languages.svg" width="100%" />
+<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-languages.svg" width="450" style="max-width: 100%;" alt="Programming languages" />
 
 ### LeetCode
 
-<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-leetcode.svg" width="100%" />
+<img src="https://github.com/angelicagardner/angelicagardner/blob/main/metrics-leetcode.svg" width="450" style="max-width: 100%;" alt="LeetCode" />
 
 <br/>
 
-*Note: This README is updated using GitHub Actions once a week on Thursdays*
+> ***Note**: This README is updated using GitHub Actions once a week on Thursdays*
