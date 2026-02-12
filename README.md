@@ -7,6 +7,7 @@ This repo is part lab notebook, part playground - it's my digital workbench to t
 ## 📚 What I'm Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.goodreads.com/review/show/6471996346?utm_medium=api&utm_source=rss) by Matthew A. Titmus (⭐️4.27)
 - [Bröllopsgästerna](https://www.goodreads.com/review/show/8334481404?utm_medium=api&utm_source=rss) by Alison Espach (⭐️3.65)
 - [Things We Do Not Tell The People We Love](https://www.goodreads.com/review/show/7589775604?utm_medium=api&utm_source=rss) by Huma Qureshi (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
