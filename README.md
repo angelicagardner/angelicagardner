@@ -9,8 +9,6 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 - [Things We Do Not Tell The People We Love](https://www.goodreads.com/review/show/7589775604?utm_medium=api&utm_source=rss) by Huma Qureshi (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
 
-<br/>
-
 ### 📊 Metrics
 
 #### 3D Visualization of Contribution Graph
