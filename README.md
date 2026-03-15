@@ -25,4 +25,4 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 
 <br/>
 
-> This README is updated using GitHub Actions once a week on Thursdays*
+> *This README is updated using GitHub Actions once a week on Thursdays*
