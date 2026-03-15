@@ -1,10 +1,10 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
-This repo is part lab notebook, part playground - it's my digital workbench to track and share my work, exploration, and learning. From research notes to thesis work, coding challenges to kids’ projects... with some open source participation too. Welcome to get in touch!
+I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to track, share, explore, and learn.
 
 <br/>
 
-## 📚 What I'm Currently Reading
+## 📚 Currently Reading
 
 <!-- GOODREADS-LIST:START -->
 - [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.goodreads.com/review/show/6471996346?utm_medium=api&utm_source=rss) by Matthew A. Titmus (⭐️4.26)
