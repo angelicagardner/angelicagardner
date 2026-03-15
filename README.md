@@ -2,8 +2,6 @@
 
 I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to track, share, explore, and learn.
 
-<br/>
-
 ### 📚 Currently Reading
 
 <!-- GOODREADS-LIST:START -->
