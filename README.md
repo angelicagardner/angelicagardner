@@ -6,7 +6,6 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 
 <!-- GOODREADS-LIST:START -->
 - [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.goodreads.com/review/show/6471996346?utm_medium=api&utm_source=rss) by Matthew A. Titmus (⭐️4.26)
-- [Things We Do Not Tell The People We Love](https://www.goodreads.com/review/show/7589775604?utm_medium=api&utm_source=rss) by Huma Qureshi (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
 
 ### 📊 Metrics
