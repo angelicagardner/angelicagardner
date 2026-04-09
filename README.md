@@ -5,7 +5,9 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 ### 📚 Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.goodreads.com/review/show/6471996346?utm_medium=api&utm_source=rss) by Matthew A. Titmus (⭐️4.26)
+- [Women and Gender in Islam](https://www.goodreads.com/review/show/8002771538?utm_medium=api&utm_source=rss) by Leila Ahmed (⭐️4.12)
+- [Sorry I'm Late, I Didn't Want to Come: An Introvert's Year of Living Dangerously](https://www.goodreads.com/review/show/8453696521?utm_medium=api&utm_source=rss) by Jessica Pan (⭐️3.84)
+- [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.goodreads.com/review/show/6471996346?utm_medium=api&utm_source=rss) by Matthew A. Titmus (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 ### 📊 Metrics
