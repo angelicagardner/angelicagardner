@@ -1,8 +1,8 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
 I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to track, share, explore, and learn.
 
-### 📚 Currently Reading
+## 📚 Currently Reading
 
 <!-- GOODREADS-LIST:START -->
 - [Women and Gender in Islam](https://www.goodreads.com/review/show/8002771538?utm_medium=api&utm_source=rss) by Leila Ahmed (⭐️4.11)
@@ -10,7 +10,7 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 - [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.goodreads.com/review/show/6471996346?utm_medium=api&utm_source=rss) by Matthew A. Titmus (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
-### 📊 Metrics
+## 📊 Metrics
 
 #### 3D Visualization of Contribution Graph
 
