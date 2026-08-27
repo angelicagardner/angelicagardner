@@ -6,7 +6,7 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 
 <!-- GOODREADS-LIST:START -->
 - [The Beekeeper of Aleppo](https://www.goodreads.com/review/show/8608567315?utm_medium=api&utm_source=rss) by Christy Lefteri (⭐️4.1)
-- [الفتاة التي سقطت تحت البحر](https://www.goodreads.com/review/show/8836226591?utm_medium=api&utm_source=rss) by Axie Oh (⭐️4.11)
+- [الفتاة التي سقطت تحت البحر](https://www.goodreads.com/review/show/8836226591?utm_medium=api&utm_source=rss) by Axie Oh (⭐️4.1)
 - [Color Theory for the Make-up Artist: Understanding Color and Light for Beauty and Special Effects](https://www.goodreads.com/review/show/8605726312?utm_medium=api&utm_source=rss) by Katie Middleton (⭐️5)
 - [Women and Gender in Islam](https://www.goodreads.com/review/show/8002771538?utm_medium=api&utm_source=rss) by Leila Ahmed (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
