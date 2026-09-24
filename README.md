@@ -5,6 +5,7 @@ I'm [Angelica](https://angelicagardner.com/). This is my digital workbench to tr
 ## 📚 Currently Reading
 
 <!-- GOODREADS-LIST:START -->
+- [Yesteryear](https://www.goodreads.com/review/show/8512077058?utm_medium=api&utm_source=rss) by Caro Claire Burke (⭐️3.75)
 - [The Beekeeper of Aleppo](https://www.goodreads.com/review/show/8608567315?utm_medium=api&utm_source=rss) by Christy Lefteri (⭐️4.1)
 - [الفتاة التي سقطت تحت البحر](https://www.goodreads.com/review/show/8836226591?utm_medium=api&utm_source=rss) by Axie Oh (⭐️4.31)
 - [Color Theory for the Make-up Artist: Understanding Color and Light for Beauty and Special Effects](https://www.goodreads.com/review/show/8605726312?utm_medium=api&utm_source=rss) by Katie Middleton (⭐️5)
